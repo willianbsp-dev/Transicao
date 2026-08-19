@@ -4,3 +4,7 @@ Objetivo
 Praticar a criação e manipulação de transições e animações em CSS/JavaScript, 
 além de exercitar o fluxo de trabalho com controle de versão no Git e publicação 
 de repositórios no GitHub.
+
+O projeto animacao testa a propriedade para animacoes no css.
+
+O projeto balao faz um balao subindo utilizando keyframes.
